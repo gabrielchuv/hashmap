@@ -1,2 +1,2 @@
-*An implementation of a polymorphic associative array using
+* An implementation of a polymorphic associative array using
 hashing
